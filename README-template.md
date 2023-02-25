@@ -22,8 +22,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub
+- Live Site URL: https://nft-preview-card-component-six-lyart.vercel.app/
 
 ## My process
 
